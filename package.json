@@ -1,6 +1,6 @@
 {
     "name": "uuid-generate",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Generate unique UUID",
     "main": "./lib/uuid-generate.js",
     "private": false,
@@ -24,7 +24,7 @@
         "url": "https://github.com/victorgianvechio/uuid-generate.git"
     },
     "keywords": [
-        "date",
-        "pt-BR"
+        "uuid",
+        "guid"
     ]
 }

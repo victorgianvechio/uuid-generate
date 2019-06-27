@@ -1,4 +1,4 @@
-# UUID Generator
+# uuid-generate
 
 [![npm](https://img.shields.io/npm/dt/uuid-generate.svg)](https://www.npmjs.com/package/uuid-generate)
 [![license](https://img.shields.io/npm/l/uuid-generate.svg)](https://github.com/victorgianvechio/uuid-generate/blob/master/LICENSE)
@@ -12,18 +12,25 @@ Generate unique UUID like:
 
 ## Installation
 
-`npm install -S uuid-generate`
+via npm:
+
+```sh
+npm i -S uuid-generate
+```
 
 ### Scripts
 
-Test generator output
+test generator output:
 
-`npm run generate`
+```sh
+npm run generate
+```
 
 ### Usage
 
 ```javascript
-const uuid = require('uuid-generate').generate()
+const UUID = require('uuid-generate')
+let my_uuid = UUID.generate() // => a37d50a394a8-a3ea14-a34cf6-a34d5f-a3fbf8a311e7a36c30
 ```
 
 ## Changelog

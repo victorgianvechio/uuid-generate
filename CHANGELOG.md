@@ -1,14 +1,18 @@
 # Change Log
 
-## uuid-generator v1.0.2 (27 Jun 2019)
+## uuid-generate v1.0.3 (01 Jul 2019)
 
-- README;
-- Refactored code;
+-   Fixed _.eslint_ rules;
 
-## uuid-generator v1.0.1 (26 Jun 2019)
+## uuid-generate v1.0.2 (27 Jun 2019)
 
-- Add keywords on `package.json`;
+-   README;
+-   Refactored code;
 
-## uuid-generator v1.0.0 (26 Jun 2019)
+## uuid-generate v1.0.1 (26 Jun 2019)
 
-- Published in npm;
+-   Add keywords on `package.json`;
+
+## uuid-generate v1.0.0 (26 Jun 2019)
+
+-   Published in npm;

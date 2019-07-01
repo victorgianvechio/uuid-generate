@@ -8,7 +8,7 @@ Generate unique UUID like:
 
 **ed9b9aede340-edc9ae-ed18ba-ed5b85-ed65f5ed25daed1425**
 
-----
+---
 
 ## Installation
 
@@ -36,4 +36,3 @@ let my_uuid = UUID.generate() // => a37d50a394a8-a3ea14-a34cf6-a34d5f-a3fbf8a311
 ## Changelog
 
 See the update notes at [CHANGELOG](https://github.com/victorgianvechio/uuid-generate/blob/master/CHANGELOG.md).
-

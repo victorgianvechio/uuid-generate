@@ -1,6 +1,6 @@
 {
     "name": "uuid-generate",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Generate unique UUID",
     "main": "./lib/uuid-generate.js",
     "private": false,
@@ -25,6 +25,7 @@
     },
     "keywords": [
         "uuid",
-        "guid"
+        "guid",
+        "generator"
     ]
 }

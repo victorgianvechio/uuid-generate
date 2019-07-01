@@ -26,6 +26,7 @@
     "keywords": [
         "uuid",
         "guid",
+        "unique",
         "generator"
     ]
 }

@@ -1,5 +1,9 @@
 # Change Log
 
+## uuid-generate v1.0.4 (19 Jul 2019)
+
+-   Added some badges on README;
+
 ## uuid-generate v1.0.3 (01 Jul 2019)
 
 -   Fixed _.eslint_ rules;

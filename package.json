@@ -1,7 +1,7 @@
 {
     "name": "uuid-generate",
     "version": "1.0.4",
-    "description": "Generate unique UUID",
+    "description": "Generate unique UUID.",
     "main": "./lib/uuid-generate.js",
     "private": false,
     "bin": {
